@@ -11,7 +11,7 @@ A passionate AI & data science developer from Pakistan
 
 ## Connect with me:
 
-(Your links will go here – LinkedIn, Gmail, GitHub etc.)
+www.linkedin.com/in/mateen-ali-abro-643481396
 
 ---
 
