@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**mateenali07/mateenali07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Mateen Ali
 
-Here are some ideas to get you started:
+A passionate AI & data science developer from Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **EDA, ML**
+- 🌱 I’m currently learning **Deep Learning**
+- 📫 How to reach me: **mateenalibro77@gmail.com**
+
+---
+
+## Connect with me:
+
+(Your links will go here – LinkedIn, Gmail, GitHub etc.)
+
+---
+
+## Languages and Tools:
+
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn • Jupyter Notebook • Machine Learning • Deep Learning
